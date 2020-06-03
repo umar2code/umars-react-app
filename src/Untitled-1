@@ -1,0 +1,2 @@
+var write=new Buffer(123);
+write.
